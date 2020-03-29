@@ -1,5 +1,5 @@
 class Calculate{  
   public static void main(String args[]){  
-   System.out.println("Quick math");  
+   System.out.println("Is this a real life");  
     }  
 }
